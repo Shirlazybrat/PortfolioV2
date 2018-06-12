@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f42f4a6-3c7c-4cd7-ae21-b74f8a053682" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascript/jquery.easings.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascript/jquery.multiscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/javascript/jquery.multiscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/jquery.multiscroll.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.extensions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/dist/jquery.multiscroll.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/css3 copia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/css3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/easing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/examples.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/fixedHeaders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/imgs/multiscroll.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/looping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/noAnchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/responsiveExpand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/scrollable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/scrollingSpeed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/examples/selectors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/jquery.multiscroll.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/jquery.multiscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/jquery.multiscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/multiscroll.js-master/vendors/jquery.easings.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/scrollMe/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/scrollMe/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/scrollMe/jquery.scrollme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/scrollMe/jquery.scrollme.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/scrollMe/scrollme.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/textillate/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/textillate/jquery.fittext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/textillate/jquery.lettering.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/javascript/textillate/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/jquery.textillate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/package.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascript/portfolio.js" afterPath="$PROJECT_DIR$/assets/javascript/portfolio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,21 +18,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.6808149">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="948">
-                  <caret line="425" column="0" lean-forward="true" selection-start-line="425" selection-start-column="0" selection-end-line="425" selection-end-column="0" />
+                <state relative-caret-position="4806">
+                  <caret line="413" column="6" lean-forward="true" selection-start-line="413" selection-start-column="6" selection-end-line="413" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="107">
-                  <caret line="20" column="58" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="58" />
+                <state relative-caret-position="60">
+                  <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -100,7 +52,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/styles/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
@@ -110,10 +62,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="examples.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="examples.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/styles/examples.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="903">
+                <state relative-caret-position="2593">
                   <caret line="198" column="1" lean-forward="false" selection-start-line="198" selection-start-column="1" selection-end-line="198" selection-end-column="1" />
                   <folding />
                 </state>
@@ -243,12 +195,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528767488410</updated>
       <workItem from="1528767490480" duration="1410000" />
-      <workItem from="1528809270522" duration="8619000" />
+      <workItem from="1528809270522" duration="9465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10029000" />
+    <option name="totallyTimeSpent" value="10875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
@@ -415,34 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascript/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1099">
           <caret line="3493" column="1" lean-forward="false" selection-start-line="3493" selection-start-column="1" selection-end-line="3493" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="20" column="58" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/examples.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="198" column="1" lean-forward="false" selection-start-line="198" selection-start-column="1" selection-end-line="198" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -457,8 +385,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="948">
-          <caret line="425" column="0" lean-forward="true" selection-start-line="425" selection-start-column="0" selection-end-line="425" selection-end-column="0" />
+        <state relative-caret-position="4806">
+          <caret line="413" column="6" lean-forward="true" selection-start-line="413" selection-start-column="6" selection-end-line="413" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/examples.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2593">
+          <caret line="198" column="1" lean-forward="false" selection-start-line="198" selection-start-column="1" selection-end-line="198" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascript/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
