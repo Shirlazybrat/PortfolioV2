@@ -24,21 +24,24 @@ body {
 /*}*/
 
 div.background1 {
-  background: url(images/bgImages/WOC-hands.jpg);
+  background-image: url(../images/bgImages/WOC-hands.jpg);
   position: relative;
   background-size: cover;
+  /*opacity: 0.6;*/
+  z-index: -1;
 }
 
-div.clearbox {
-  background-color: #ff237b;
-  border: 1px solid black;
-  opacity: 0.6;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
-}
+/*div.clearbox {*/
+  /*background-color: #ff237b;*/
+  /*border: 1px solid black;*/
+  /*opacity: 0.6;*/
+  /*filter: alpha(opacity=60); !* For IE8 and earlier *!*/
+/*}*/
 
 .layer {
-  background-color: #ff237b;
-  position: absolute;
+  /*background-color: #ff237b;*/
+  /*position: absolute;*/
+  z-index: 1;
   top: 0;
   left: 0;
   width: 100%;
@@ -60,6 +63,10 @@ div.clearbox {
 
 #myModal {
   color: #160100;
+}
+.dev {
+  height: 80px;
+  width: 80px;
 }
 
 /*h2, h3 {*/
