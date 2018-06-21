@@ -6,155 +6,345 @@ font-family: 'IM Fell French Canon SC', serif;
 font-family: 'Marck Script', cursive; */
 
 body {
-  /*position: relative;*/
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    background-color: #D9BBF9;
+}
+
+.jumbotron{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+nav.navbar, a.navbar-brand {
+    font-size: 25px;
+    padding-right: 80px;
+}
+
+
+h2.banner{
+    font-size: 7em;
+    margin:  -150px;
+    overflow: hidden;
+}
+
+img{
+	max-width: 100%;
+}
+
+.mainPic img{
+    border-radius: 25px;
+    border: 2px solid #D9BBF9;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #D9BBF9;
+    border-color: #D9BBF9;
+}
+
+.main {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/WOC-books.jpg") no-repeat center center;
+    background-size: cover;
+    text-shadow: 4px 4px 4px rgba(78, 82, 131, 1);
+    height: 1000px;
+    font-size: 3em;
+    }
+
+.main h3{
+    font-size: 70px;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 65px;
+    font-weight: 200;
+}
+
+.page-header{
+  margin-top: 200px;
   text-align: center;
 }
 
-
-.wrapper {
-  padding-top: 100px;
-  padding-bottom: 50px;
-  min-height:500px;
-  margin: 0px;
-  min-height:100vh;
+.about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/WOC-two.jpg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
 }
 
-/*nav {*/
-  /*border-bottom: 5px solid #ced3dd;*/
-/*}*/
-
-div.background1 {
-  background-image: url(../images/bgImages/WOC-hands.jpg);
-  position: relative;
-  background-size: cover;
-  /*opacity: 0.6;*/
-  z-index: -1;
+.skills {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/blackServers.jpg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
 }
 
-/*div.clearbox {*/
-  /*background-color: #ff237b;*/
-  /*border: 1px solid black;*/
-  /*opacity: 0.6;*/
-  /*filter: alpha(opacity=60); !* For IE8 and earlier *!*/
-/*}*/
+.projects {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/WOC-sit.jpg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
 
-.layer {
-  /*background-color: #ff237b;*/
-  /*position: absolute;*/
-  z-index: 1;
-  top: 0;
-  left: 0;
-  width: 100%;
+.contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("../img/WOC-sit.jpg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+
+
+.about-section img{
+    max-width: 230px;
+    margin-top: 40px;
+    padding: 0px;
+    transform: rotate(9deg);
+}
+
+.about-section .bios{
+    margin: 10px;
+}
+
+.about-section h3 {
+font-family: 'Josefin Slab', serif;
+}
+
+.skills-section h3{
+    font-family: 'Josefin Slab', serif;
+}
+
+.projects-section img {
+    padding: 0px;
+    margin: 0px;
+}
+
+.projects-section .label{
+    font-size: 20px;
+}
+
+.container.info{
+    background:rgba(170, 159, 177, 0.40);
+    width: 100%;
+}
+
+.contact-section div{
+    color:  #fff;
+}
+
+.thumbnail {
+    position:relative;
+    overflow:hidden;
+  width: 400px;
   height: 100%;
 }
 
-.black {
-  background: #160100;
-  color: #ffffff;
+.thumbnail img{
+  width: 100%;
+  height: 100%;
+}
+ 
+.caption {
+    position:absolute;
+    top:0;
+    right:0;
+    background:rgba(120, 113, 170, 0.75);
+    width:100%;
+    height:100%;
+    padding:2%;
+    display: none;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
 }
 
-.progress {
-  margin: 10px 0px 10px 0px;
+.caption p{
+    font-size: 20px;
+    font-family: 'Josefin Slab', serif;
 }
 
-.card.mb-3 {
-  max-width: 20rem;
+.row {
+	margin: 10px;
+	padding: 0px;
+	color: #4E5283;
 }
 
-#myModal {
-  color: #160100;
-}
-.dev {
-  height: 80px;
-  width: 80px;
-}
-
-/*h2, h3 {*/
-  /*text-align: center;*/
-  /*font-family: 'Playfair Display', serif;*/
+/*.grid {*/
+    /*display: grid;*/
+    /*grid-template: repeat(2, 1fr) /repeat(3, 1fr);*/
+    /*grid-gap: 3px;*/
 /*}*/
 
-/*p {*/
-  /*text-align: center;*/
-  /*font-family: 'IM Fell French Canon SC', serif;*/
-/*}*/
-
-li {
-  list-style: none;
-  display: inline;
-  /*font-family: 'Marck Script', cursive;*/
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    color: #4E5283;
 }
 
-/*hr {*/
-  /*width: 200px;*/
-/*}*/
-
-.grid {
-  display: grid;
-  grid-template: repeat(2, 1fr) /repeat(3, 1fr);
-  grid-gap: 3px;
+img.dev {
+    height: 140px;
+    width:  140px;
+    margin: 10px;
+    float: left;
 }
 
-/*.about {*/
-
-/*}*/
-
-/*.skills {*/
-
-/*}*/
-
-/*.more {*/
-
-/*}*/
-
-/*.projects {*/
-
-/*}*/
-
-/*.resume {*/
-
-/*}*/
-
-/*.blog {*/
-
-/*}*/
-
-/*.contact {*/
-
-/*}*/
+div.email {
+    padding: 2px;
+    margin:  5px;
+}
 
 footer {
-  text-align: left;
-  padding-left: 0px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  min-height:100px;
-  margin: 0px;
+	font-size: 20px;
+	background-color: black;
+	margin-bottom: 0;
 }
 
-/*//////////////////////Typewiter text/////////////////////////////////////////////*/
-
-.typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid #ff237b; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: /*cursor will stop at the end of the div */
-  typing 3.5s steps(40, end),
-  blink-caret .75s step-end infinite;
+small{
+    font-size: 55%;
 }
 
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+i.fa {
+	color: white;
+	text-align: center;
+	padding: 2px 5px 2px 5px;	
+	margin: 0px;
+   font-size: 50px;
+   display: inline;
 }
 
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #ff237b; }
+
+h5 {
+	float: right;
+	margin: 0px;
+	padding: 2px 5px 2px 5px;
+	background-color: #4E5283;	
 }
 
-/*///////////////////////////////////////////////////////////////////////*/
+.grid-item {
+    width: 25%; 
+}
+
+.grid-item--width2 {
+     width: 50%;
+ }
+
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
+
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+    .jumbotron{
+        width:100%;
+    }
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+    .jumbotron {
+        width:100%;
+        float:left;
+    }
+    .btn {
+        font-size: 25px;
+    }
+    .projects-section .label{
+    font-size: 20px;
+    }
+    footer {
+        font-size: 40px;
+        text-align: center;
+    }
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .jumbotron {
+        width:100%;
+        float:none;
+    }
+    .btn {
+        font-size: 25px;
+    }
+    .projects-section .label{
+    font-size: 30px;
+    }
+    footer {
+        font-size: 10px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .jumbotron .h1, .jumbotron h1 {
+    font-size: 110px;
+    }
+    .btn {
+        font-size: 25px;
+    }
+    .projects-section .label{
+    font-size: 20px;
+    }
+    footer {
+        font-size: 40px;
+        text-align: center;
+    }
+}
