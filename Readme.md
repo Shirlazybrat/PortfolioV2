@@ -1,24 +1,24 @@
-#Personal Portfolio
+# Personal Portfolio
 
-##I am a Full-Stack Developer with an emphasis in JavaScript
+## I am a Full-Stack Developer with an emphasis in JavaScript
 
 
 ![Alt text](img/ScreenShot2.png "Home Page")
 
 
-###This is my personal portfolio created to showcase my projects, share my contact information and give each visitor insight into who I am and what I do. 
+### This is my personal portfolio created to showcase my projects, share my contact information and give each visitor insight into who I am and what I do.
 
 Visit here: [Portfolio](http://shirletterly.com/)
 
-##Built with:
+## Built with:
 	- Html
 	- CSS
 	- Javascript
 	- jQuery 
 	- Bootstrap
 
-##Sample Code
-###The following code was created with the  use of Bootstrap to allow the visitor to click on a contact button resulting in the dynamic display of a modal where there may enter information to send.
+## Sample Code
+###T he following code was created with the  use of Bootstrap to allow the visitor to click on a contact button resulting in the dynamic display of a modal where there may enter information to send.
 
 ```html
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -51,16 +51,16 @@ Visit here: [Portfolio](http://shirletterly.com/)
 ```
 
 
-####Early stages of site
+#### Early stages of site
 ![Alt text](img/ScreenShot1.png "Early stages of site")
 
 <!-- add a video of interaction with the site -->
 
-##Future Add-ons
+## Future Add-ons
 - Links to more current projects.
 - Ability for visitors to send messages directly from the site to me.
 - An enhanced UX/UI design that encourages more visitors.
 
 
-###Please visit my personal profile to see more current projects.
+### Please visit my personal profile to see more current projects.
 - [Shirlette Chambers](https://github.com/Shirlazybrat)
