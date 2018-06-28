@@ -68,7 +68,8 @@ Visit here: [Portfolio](http://shirletterly.com/)
 
 
 #### Early stages of site
-[Alt text](www/img/earlyStage.png "Early stages of site")
+![Alt text](www/img/earlyStage.png?raw=true "Early stages of site")
+
 
 <!-- add a video of interaction with the site -->
 
