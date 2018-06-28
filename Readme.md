@@ -2,8 +2,7 @@
 
 ## I am a Full-Stack Developer with an emphasis in JavaScript
 
-
-[Alt text](img/portfolioHome.png "Home Page")
+![Alt text](/img/portfolioHome.png?raw=true "Home Page")
 
 
 ### This is my personal portfolio created to showcase my projects, share my contact information and give each visitor insight into who I am and what I do.
